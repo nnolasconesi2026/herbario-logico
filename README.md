@@ -4,12 +4,15 @@ Sistema experto desarrollado en **SWI-Prolog** e integrado con una interfaz web 
 
 ---
 
-## 👥 Autores
+##  Autores
 * **Nolasco Quezada Neshmi Natalia y Santiago Antonio Karla Yamina** — ESCOM IPN
-
+---
+##  Enlace de la Aplicación en Producción
+Puedes probar el sistema experto funcionando en la nube a través del siguiente enlace:
+👉 [Herbario Lógico - Web App](https://herbario-logico.onrender.com)
 ---
 
-## 🧠 Características del Sistema Experto (Prolog)
+##  Características del Sistema Experto (Prolog)
 El motor lógico (`plantas.pl`) implementa conceptos avanzados de programación declarativa:
 1. **Hechos y Atributos:** 20 especies vegetales con datos taxonómicos, requerimientos de luz, humedad, tamaño y formas de vida.
 2. **Motor de Recomendación con Puntaje Ponderado:** Utiliza escalas ordinales y funciones de distancia numérica para evaluar la viabilidad ambiental (Luz 40pts, Humedad 30pts, Follaje 20pts, Tamaño 10pts).
